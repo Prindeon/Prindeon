@@ -1,30 +1,30 @@
 ![banner](./assets/banner.png)
-# 👋 Hey, I’m Marius
+
 
 ### ☕ Java Student · Aspiring Developer · Coffee Enthusiast
 
 ---
 
 ## 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjkieldsen/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://Mjkieldsen.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjkieldsen/)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://Mjkieldsen.com)
 
 ---
 
 ## 🚀 Skills  
 **Languages & Frameworks**  
-`Java` · `Spring Boot` · `JavaFX` · `JavaScript` · `Node.js`  
+`Java` · `Spring Boot` · `TypeScript` · `React` · `C#` · `.NET`
 
 **Tools & Other Tech**  
-`Git & GitHub` · `Maven` · `IntelliJ IDEA` · `REST APIs` · `SQL/Postgres`
+`Git` · `Maven` · `REST APIs` · `SQL/Postgres`· `Firebase`
 
 ---
 
 ## 📚 Currently Learning  
-- Clean Architecture & Design Patterns 🧩  
-- Advanced Java (Functional Programming, Streams)  
-- Supabase / Full Stack JS (Frontend + Backend)  
-- Performance optimization & debugging
+- Clean Architecture 🧩  
+- Advanced Java 
+- Full Stack TS  
+- Performance optimization
+- Cybersecurity fundamentals
 
 ---
 
@@ -32,14 +32,14 @@
 
 | Project | Description |
 |--------|-------------|
-| [**DIY-WebApp**](https://github.com/Prindeon/diy-webapp) | A web application I built from scratch — good for practicing full stack flow (frontend + backend) and deployment. |
-| [**EcoHabits**](https://github.com/Prindeon/EcoHabits) | Habit-tracker app focused on sustainability. I played with UI logic + data persistence. |
-| [**Minos-Labyrinth**](https://github.com/Prindeon/Minos-Labyrinth) | Game-like labyrinth puzzle. Nice bite-sized challenge where I pushed movement logic, collision detection, maybe pathfinding etc. |
+| [**DIY-WebApp**](https://github.com/Prindeon/diy-webapp) | A web application I built from scratch |
+| [**EcoHabits**](https://github.com/Prindeon/EcoHabits) | Habit-tracker app focused on sustainability. |
+| [**Minos-Labyrinth**](https://github.com/Prindeon/Minos-Labyrinth) | Game-like labyrinth puzzle. Nice little one-day challenge where I made all assets and sounds myself |
 
 ---
 
 ## 🤹 Fun Fact  
-I can juggle four balls … but still forget semicolons occasionally. 😉
+My Covid-Project was learning to juggle four balls and riding a uni-bike
 
 ---
 
@@ -49,4 +49,4 @@ I can juggle four balls … but still forget semicolons occasionally. 😉
 
 ---
 
-Thanks for stopping by! If you want to collab, chat about code, or swap coffee tips, I’m always happy to connect. 🚀
+Thanks for stopping by! If you want to collab, I’m always happy to connect. 🚀
