@@ -20,9 +20,9 @@
 ---
 
 ## 📚 Currently Learning  
-- Clean Architecture 🧩  
 - Advanced Java 
-- Full Stack TS  
+- Full Stack TS
+- Clean Architecture 
 - Performance optimization
 - Cybersecurity fundamentals
 
@@ -34,12 +34,12 @@
 |--------|-------------|
 | [**DIY-WebApp**](https://github.com/Prindeon/diy-webapp) | A web application I built from scratch |
 | [**EcoHabits**](https://github.com/Prindeon/EcoHabits) | Habit-tracker app focused on sustainability. |
-| [**Minos-Labyrinth**](https://github.com/Prindeon/Minos-Labyrinth) | Game-like labyrinth puzzle. Nice little one-day challenge where I made all assets and sounds myself |
+| [**Minos-Labyrinth**](https://github.com/Prindeon/Minos-Labyrinth) | JSLabyrinth puzzle game — one-day challenge with original sounds sounds |
 
 ---
 
 ## 🤹 Fun Fact  
-My Covid-Project was learning to juggle four balls and riding a uni-bike
+My Covid-project was learning to juggle and riding a uni-cycle
 
 ---
 
