@@ -34,7 +34,7 @@
 |--------|-------------|
 | [**DIY-WebApp**](https://github.com/Prindeon/diy-webapp) | A web application I built from scratch |
 | [**EcoHabits**](https://github.com/Prindeon/EcoHabits) | Habit-tracker app focused on sustainability. |
-| [**Minos-Labyrinth**](https://github.com/Prindeon/Minos-Labyrinth) | JSLabyrinth puzzle game — one-day challenge with original sounds sounds |
+| [**Minos-Labyrinth**](https://github.com/Prindeon/Minos-Labyrinth) | One-day challenge JavaScript puzzle game. |
 
 ---
 
