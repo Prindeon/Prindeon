@@ -1,7 +1,7 @@
 ![banner](./assets/banner.png)
 
 
-### ☕ Java Student · Aspiring Developer · Coffee Enthusiast
+### ☕ Java Student · Future Developer · Coffee Enthusiast
 
 ---
 
@@ -12,7 +12,7 @@
 
 ## 🚀 Skills  
 **Languages & Frameworks**  
-`Java` · `Spring Boot` · `TypeScript` · `React` · `C#` · `.NET`
+`Java` · `Spring Boot` · `TypeScript` · `React` · `C#`
 
 **Tools & Other Tech**  
 `Git` · `Maven` · `REST APIs` · `SQL/Postgres`· `Firebase`
@@ -23,7 +23,6 @@
 - Advanced Java 
 - Full Stack TS
 - Clean Architecture 
-- Performance optimization
 - Cybersecurity fundamentals
 
 ---
