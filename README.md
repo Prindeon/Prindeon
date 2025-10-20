@@ -1,21 +1,17 @@
 ![banner](./assets/banner.png)
 
 
-### ☕ Java Student · Future Developer · Coffee Enthusiast
+### ☕ Java Student
 
 ---
 
-## 🔗 Connect with me  
+## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjkieldsen/)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://Mjkieldsen.com)
 
 ---
 
-## 🚀 Skills  
-**Languages & Frameworks**  
+## 🚀 Languages & Frameworks  
 `Java` · `Spring Boot` · `TypeScript` · `React` · `C#`
-
-**Tools & Other Tech**  
-`Git` · `Maven` · `REST APIs` · `SQL/Postgres`· `Firebase`
 
 ---
 
@@ -37,8 +33,6 @@
 
 ---
 
-## 🤹 Fun Fact  
-My Covid-project was learning to juggle and riding a uni-cycle
 
 ---
 
@@ -47,5 +41,3 @@ My Covid-project was learning to juggle and riding a uni-cycle
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prindeon&layout=compact&theme=tokyonight)
 
 ---
-
-Thanks for stopping by! If you want to collab, I’m always happy to connect. 🚀
