@@ -15,7 +15,7 @@
 
 ---
 
-## 📚 Currently Learning  
+## Currently Learning  
 - Advanced Java 
 - Full Stack TS
 - Clean Architecture 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🌟 Favourite Projects  
+## Favourite Projects  
 
 | Project | Description |
 |--------|-------------|
