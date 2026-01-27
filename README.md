@@ -11,19 +11,11 @@
 ---
 
 ## 🚀 Languages & Frameworks  
-`Java` · `Spring Boot` · `TypeScript` · `React` · `C#`
+`Java` · `Python` · `TypeScript` · `React` · `C#`
 
 ---
 
-## Currently Learning  
-- Advanced Java 
-- Full Stack TS
-- Clean Architecture 
-- Cybersecurity fundamentals
-
----
-
-## Favourite Projects  
+## Highlighted Projects  
 
 | Project | Description |
 |--------|-------------|
