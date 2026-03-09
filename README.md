@@ -9,7 +9,7 @@
 ---
 
 ## Languages & Frameworks  
-`Java` · `Python` · `TypeScript` · `React` · `C#`
+`Java` · `C#` · `Python` · `TypeScript` · `React`
 
 ---
 
