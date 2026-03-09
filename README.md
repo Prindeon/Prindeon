@@ -1,16 +1,14 @@
-![banner](./assets/banner.png)
 
-
-### ☕ Java Student
+### Software Student
 
 ---
 
-## 🔗 Links
+## Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjkieldsen/)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://Mjkieldsen.com)
 
 ---
 
-## 🚀 Languages & Frameworks  
+## Languages & Frameworks  
 `Java` · `Python` · `TypeScript` · `React` · `C#`
 
 ---
